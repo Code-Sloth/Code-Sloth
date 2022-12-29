@@ -1,3 +1,3 @@
-# **KDT 2기 5회차 이민욱**
+# **KDT 2nd class 5th LeeMinWook**
 
-- ## **기계전공출신의 비전공자**
+- ## **Non-majors from mechanical majors**
