@@ -32,7 +32,7 @@
 
 <div align=center>
 
-![arrmadillo's GitHub stats](https://github-readme-stats.vercel.app/api?username=arrmadillo&show_icons=true&theme=dark)
+![Code-Sloth's GitHub stats](https://github-readme-stats.vercel.app/api?username=arrmadillo&show_icons=true&theme=dark)
 <br>
 <br>
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arrmadillo&layout=compact&theme=merko)
